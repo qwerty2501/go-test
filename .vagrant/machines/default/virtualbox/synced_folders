@@ -1,0 +1,1 @@
+{"rsync":{"/vagrant":{"type":"rsync","guestpath":"/vagrant","hostpath":"/home/qwerty2501/go/src/test-project","disabled":false,"__vagrantfile":true,"owner":"vagrant","group":"vagrant"}},"virtualbox":{"/q2/go/src/test-project":{"create":true,"guestpath":"/q2/go/src/test-project","hostpath":"/home/qwerty2501/go/src/test-project","disabled":false,"__vagrantfile":true}}}
